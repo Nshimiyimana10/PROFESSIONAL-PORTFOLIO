@@ -27,6 +27,12 @@ function Project() {
           <p class="text-gray-700">A form that facilitate the users to register with their adress.Built using HTML, CSS & JavaScript  </p>
           <a href="https://github.com/Nshimiyimana10/Advanced-JS-Form.git" class="text-blue-600 hover:underline">View on GitHub</a>
         </div>
+
+        <div class="bg-gray-200 p-6 rounded-lg shadow-lg">
+          <h4 class="text-xl font-semibold">Project 5:Smile School Website </h4>
+          <p class="text-gray-700">A Website of Smile School demonstrating different activities carried out at school.Built with HTML and advanced TailwindCSS  </p>
+          <a href="https://github.com/Nshimiyimana10/Advanced-JS-Form.git" class="text-blue-600 hover:underline">View on GitHub</a>
+        </div>
       </div>
     </div>
   </section>
