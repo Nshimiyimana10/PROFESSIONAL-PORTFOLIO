@@ -18,8 +18,14 @@ function Project() {
         </div>
         <div class="bg-gray-200 p-6 rounded-lg shadow-lg">
           <h4 class="text-xl font-semibold">Project 3: Task Manager</h4>
-          <p class="text-gray-700">A task manager application that allows users to add, update, and delete tasks. Built using ReactJS, TailwindCSS, and state management.</p>
-          <a href="https://github.com/yourusername/task-manager" class="text-blue-600 hover:underline">View on GitHub</a>
+          <p class="text-gray-700">A task manager application that allows users to add, update, and delete tasks. Built using HTML,CSS and JavaScript.</p>
+          <a href="https://github.com/Nshimiyimana10/TO-DO-LIST-APP.git" class="text-blue-600 hover:underline">View on GitHub</a>
+        </div>
+
+        <div class="bg-gray-200 p-6 rounded-lg shadow-lg">
+          <h4 class="text-xl font-semibold">Project 4:JS Form validation </h4>
+          <p class="text-gray-700">A form that facilitate the users to register with their adress.Built using HTML, CSS & JavaScript  </p>
+          <a href="https://github.com/Nshimiyimana10/Advanced-JS-Form.git" class="text-blue-600 hover:underline">View on GitHub</a>
         </div>
       </div>
     </div>
