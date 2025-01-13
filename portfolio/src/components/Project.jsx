@@ -8,8 +8,8 @@ function Project() {
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <div class="bg-gray-200 p-6 rounded-lg shadow-lg">
           <h4 class="text-xl font-semibold">Project 1: Portfolio Website</h4>
-          <p class="text-gray-700">A responsive portfolio website showcasing my web development skills and projects. Built with HTML, CSS, JavaScript, and TailwindCSS.</p>
-          <a href="https://github.com/yourusername/portfolio" class="text-blue-600 hover:underline">View on GitHub</a>
+          <p class="text-gray-700">A responsive portfolio website showcasing my web development skills and projects. Built with ReactJS & TailwindCSS.</p>
+          <a href="https://github.com/Nshimiyimana10/PROFESSIONAL-PORTFOLIO.git" class="text-blue-600 hover:underline">View on GitHub</a>
         </div>
         <div class="bg-gray-200 p-6 rounded-lg shadow-lg">
           <h4 class="text-xl font-semibold">Project 2: E-Commerce Site</h4>
